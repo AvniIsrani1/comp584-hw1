@@ -1,1 +1,1 @@
-https://csun-orm.github.io/hw0.github.io/
+https://avniisrani1.github.io/comp584-hw1/

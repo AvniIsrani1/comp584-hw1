@@ -32,3 +32,16 @@ p {
 
 
 p {}
+
+.small-image {
+  width:400px;
+  padding:20px;
+  border: solid black 1px;
+  border-radius:15px;
+}
+
+#quote {
+  padding: 20px;
+  border-radius:15px;
+  background-color:rgba(164, 173, 255, 0.1);
+}
